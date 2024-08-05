@@ -1,6 +1,7 @@
 # appadsupfgp3
 
-A new Flutter project.
+Projeto Flutter caso de uso do ADS UPF 2024 - Disciplina de Mobile 3
+Carazinho grupo prático 1.
 
 ## Getting Started
 
